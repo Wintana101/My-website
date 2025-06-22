@@ -1,18 +1,27 @@
 # My Website
 
-A simple PHP-based website with login, register, and event dashboard features.
+A PHP-based website with user registration, login, event management, and dashboard.
 
-## Screenshots
+## 📸 Screenshots
 
-![Login Page](Screenshot%202025-06-22%20192526.png)
-![Dashboard](Screenshot%202025-06-22%20192843.png)
+Here are some screenshots of the project interface:
 
-## Features
-- User Registration & Login
-- Add Events
-- Dashboard View
+![Screenshot 1](Screenshot%202025-06-22%20192453.png)
+![Screenshot 2](Screenshot%202025-06-22%20192526.png)
+![Screenshot 3](Screenshot%202025-06-22%20192637.png)
+![Screenshot 4](Screenshot%202025-06-22%20192650.png)
+![Screenshot 5](Screenshot%202025-06-22%20192704.png)
+![Screenshot 6](Screenshot%202025-06-22%20192843.png)
 
-## Technologies Used
+## 💡 Features
+
+- User registration & login system
+- Event creation (add_event.php)
+- Admin dashboard
+- MySQL database integration
+
+## 🔧 Tech Used
+
 - PHP
-- HTML/CSS
 - MySQL
+- HTML/CSS
